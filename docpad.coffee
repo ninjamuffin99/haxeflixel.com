@@ -39,7 +39,12 @@ docpadConfig = {
         "/vendor/twitter-bootstrap-3/js/dropdown.js",
         "/vendor/twitter-bootstrap-3/js/transition.js",
         "/vendor/twitter-bootstrap-3/js/collapse.js",
-        "/vendor/highlightjs/highlight.min.js"
+        "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/xml.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/bash.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/csharp.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/haxe.min.js",
+        "/siteHighlight.js"
       ]
       services:
         googleAnalytics: 'UA-35511281-1'
